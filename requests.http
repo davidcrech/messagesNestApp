@@ -1,0 +1,8 @@
+### List all messages
+GET http://localhost:3000/messages
+
+### Post message
+POST http://localhost:3000/messages
+
+### Get message by ID
+GET http://localhost:3000/messages/:id
